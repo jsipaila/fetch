@@ -1,24 +1,26 @@
 {
-    "name":"",
+    "name":"Jana Sipaila Szawarski ",
     "cvTitle":"",
     "cvDescription":"",
     "social":[
-        {"name":"", "link":""}
+        {"name":"Linkedin", "link":"https://www.linkedin.com/"}
     ],
     "education":[
-        {"title":"", "institution":"", "endYear":"", "description":""},
-        {"title":"", "institution":"", "endYear":"", "description":""}
+        {"title":"Lic. en Sociología", "institution":"UBA", "endYear":"En curso", "description":"pará que saco la guitarra..."},
+        {"title":"Publicista", "institution":"Instituto Argentino de la Empresa", "endYear":"2009-2011", "description":"Publicista y no pidas más"}
     ],
     "skills":[
-        {"title":"", "level":""},
-        {"title":"", "level":""}
+        {"title":"Idioma Alemán", "level":"Intermedio"},
+        {"title":"Idioma Inglés", "level":"Avanzado"},
+        {"title":"SCRUM", "level":"Avanzado"}
+        
     ],
     "blog":[
         {"title":"", "sutitle":"", "excerpt":"", "text":"", "images":""},
         {"title":"", "sutitle":"", "excerpt":"", "text":"", "images":""}
     ],
     "contact":{
-        "phone":"",
-        "email":""
+        "phone":"1166931442",
+        "email":"jana.sipaila@gmail.com"
     }
 }
